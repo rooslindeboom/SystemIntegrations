@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "csv": "^6.2.0",
+    "js-yaml": "^4.1.0"
+  },
+  "name": "systemintegrations",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rooslindeboom/SystemIntegrations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rooslindeboom/SystemIntegrations/issues"
+  },
+  "homepage": "https://github.com/rooslindeboom/SystemIntegrations#readme",
+  "description": ""
+}
